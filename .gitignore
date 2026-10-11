@@ -1,0 +1,4 @@
+   __pycache__/
+   *.pyc
+   capture*.pcap
+   capture*.csv
